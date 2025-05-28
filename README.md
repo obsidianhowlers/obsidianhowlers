@@ -32,17 +32,15 @@ We are more than a team—we are a chosen family. Bound not by blood, but by mut
 
 ---
 
-### 🔥 Core Leads
+### Core Leads
 
-* **Tanush Purwar** aka *Sanskari Wolf* 🐺
- ``` *Founder | Lead Developer | Blockchain & Security Strategist*```
-
+* **Tanush Purwar** aka *Sanskari Wolf* 
 * **Pratham Gupta**
-```*Co-Lead | Offensive Security Specialist | Protocol Designer*```
+
 
 ---
 
-### 🌌 What's Next?
+### What's Next?
 
 > *The moon awaits. Let the howls be heard.*
 
