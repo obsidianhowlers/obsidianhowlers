@@ -45,3 +45,6 @@ We are more than a team—we are a chosen family. Bound not by blood, but by mut
 > *The moon awaits. Let the howls be heard.*
 
 ---
+
+
+[![Obsidian Howlers CTF Progress](https://github.com/obsidianhowlers/CTF-Progress-Tracker/blob/main/progress_chart.png)]
